@@ -1,9 +1,5 @@
 # pac-man
 An animation that I made to learn about DOM and Javascript. The Pac-Man animation move side to side.  
-## Language used
- * HTML
- * CSS
- * Javascript
  
 ## Descripion
 * It has four images of packman, Pac-Man facing each directions with mouth open and closed. They are put in and array on .js file.
@@ -12,3 +8,13 @@ An animation that I made to learn about DOM and Javascript. The Pac-Man animatio
 * focus variable represent which images need to be used at a moment. This is used in Run function and flip between 1 and 0.
 * Run function update Pac-man images and its position/direction. This function is called with setInterval below.
 * checkPageBounds determine with direction the Pac-man image should move. It detect the screen edge and modify direction variable.
+
+## Files included
+* index.html
+* pacman.js
+* image files of Pacman
+
+## Language used
+ * HTML
+ * CSS
+ * Javascript
