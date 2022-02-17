@@ -1,5 +1,10 @@
 # pac-man
 An animation that I made to learn about DOM and Javascript. The Pac-Man animation move side to side.  
+## Language used
+ * HTML
+ * CSS
+ * Javascript
+ 
 ## Descripion
 * It has four images of packman, Pac-Man facing each directions with mouth open and closed. They are put in and array on .js file.
 * pos is the PacMan image position variable- it is set to 0 initially. This is modified in the Run function.
